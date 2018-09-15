@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>UI_Icon/24_edit_resource.png</file>
+        <file>UI_Icon/24_groups.png</file>
+        <file>UI_Icon/24_indent_task.png</file>
+        <file>UI_Icon/24_insert_resource.png</file>
+        <file>UI_Icon/24_insert_task.png</file>
+        <file>UI_Icon/24_link_task.png</file>
+        <file>UI_Icon/24_remove_resource.png</file>
+        <file>UI_Icon/24_remove_task.png</file>
+        <file>UI_Icon/24_task_down.png</file>
+        <file>UI_Icon/24_task_up.png</file>
+        <file>UI_Icon/24_unindent_task.png</file>
+        <file>UI_Icon/24_unlink_task.png</file>
+        <file>UI_Icon/gantt.png</file>
+        <file>UI_Icon/gnome-planner.png</file>
+        <file>UI_Icon/resources.png</file>
+        <file>UI_Icon/resources_usage.png</file>
+        <file>UI_Icon/tasks.png</file>
+        <file>UI_Icon/pic/copy.png</file>
+        <file>UI_Icon/pic/cut.png</file>
+        <file>UI_Icon/pic/find.png</file>
+        <file>UI_Icon/pic/font.png</file>
+        <file>UI_Icon/pic/goto.png</file>
+        <file>UI_Icon/pic/logo.png</file>
+        <file>UI_Icon/pic/new.png</file>
+        <file>UI_Icon/pic/open.png</file>
+        <file>UI_Icon/pic/paste.png</file>
+        <file>UI_Icon/pic/print.png</file>
+        <file>UI_Icon/pic/redo.png</file>
+        <file>UI_Icon/pic/replace.png</file>
+        <file>UI_Icon/pic/save.png</file>
+        <file>UI_Icon/pic/saveas.png</file>
+        <file>UI_Icon/pic/status.png</file>
+        <file>UI_Icon/pic/tool.png</file>
+        <file>UI_Icon/pic/undo.png</file>
+        <file>UI_Icon/pic/wrap.png</file>
+    </qresource>
+</RCC>
